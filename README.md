@@ -1,0 +1,1 @@
+# RID186176_Desafio-2-Desenvolvendo-um-Blog-Responsivo
